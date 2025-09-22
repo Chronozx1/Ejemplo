@@ -1,4 +1,12 @@
 button {
-  padding: 5px;
-  background-color: lightgray;
+  padding: 12px 25px;
+  background-color: dodgerblue;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: navy;
 }
